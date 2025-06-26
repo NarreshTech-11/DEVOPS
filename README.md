@@ -47,15 +47,6 @@
 ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white)  
 ![Trivy](https://img.shields.io/badge/-Trivy-0F92F0?logo=aqua&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=narreshkarri&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narreshkarri&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
